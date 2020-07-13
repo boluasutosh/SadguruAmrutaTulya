@@ -8,6 +8,7 @@ namespace SAT_DTO.BusinessObject
 {
     public class InventoryBO
     {
+        public int Id { get; set; }
         public string InventoryName { get; set; }
         public string Description { get; set; }
         public int? Price { get; set; }

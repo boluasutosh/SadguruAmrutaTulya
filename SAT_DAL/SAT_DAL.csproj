@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ContextClass\InventoryContext.cs" />
-    <Compile Include="ContextInterface\IInventory.cs" />
+    <Compile Include="ContextInterface\IInventoryContext.cs" />
     <Compile Include="DataToObject.cs" />
     <Compile Include="dbSadguruAmrutaTulya.Context.cs">
       <AutoGen>True</AutoGen>
